@@ -1,0 +1,24 @@
+.main {
+    background-image: url("../assets/background2.png");
+    background-size: cover;
+    background-position: top;
+    color: white;
+    
+}
+
+.main2 {
+    background-image: url("../assets/background3.png");
+    background-size: auto;
+}
+
+.main3 {
+    background-image: url("../assets/background.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.selfie {
+    display: block;
+    float: right;
+
+}
